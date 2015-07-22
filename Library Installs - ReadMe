@@ -1,0 +1,8 @@
+# Please install the following libraries before running the code(Links to each have been provided in the brackets):
+
+1. Scipy(Ubuntu/Linux Install: This will install all the essential libraries including Scipy, Numpy, MatPlot):
+sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
+(Link: http://www.scipy.org/install.html)
+2. PyBrain: a). $ git clone git://github.com/pybrain/pybrain.git pybrain 
+            b). $ python setup.py install
+            (Link: http://pybrain.org/docs/quickstart/installation.html)

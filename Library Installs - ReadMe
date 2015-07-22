@@ -6,3 +6,5 @@ sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython
 2. PyBrain: a). $ git clone git://github.com/pybrain/pybrain.git pybrain 
             b). $ python setup.py install
             (Link: http://pybrain.org/docs/quickstart/installation.html)
+3. MFCC Library: a) $ git clone git://github.com/jameslyons/python_speech_features
+                 b) $ python setup.py install
